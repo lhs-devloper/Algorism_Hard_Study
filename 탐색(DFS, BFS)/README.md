@@ -2,7 +2,6 @@
 
 DFS 같은 경우 깊숙하게 들어가서 탐색한뒤 다시 나온뒤 다시 깊숙하게 탐색합니다   
 BFS 같은 경우 넓게 넓게 탐색합니다   
-<img width="115" alt="GRAPH예시" src="https://user-images.githubusercontent.com/83393868/132915042-120b7b82-5cb3-49ba-a280-589cfae2a129.png">   
 1 = 2,3   
 2 = 1,4,5   
 3 = 1,6,7   
