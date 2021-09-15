@@ -8,3 +8,5 @@ Memoization기법을 사용
 프로그램 실행 시 이전에 계산한 값을 저장하여, 다시 계산하지 않도록 하여 전체 실행 속도를 빠르게 하는 기술   
    
 ex. fibonachi
+   
+- 1. Fibo(Fibonachi)
