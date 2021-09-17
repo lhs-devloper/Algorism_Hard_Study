@@ -27,3 +27,6 @@ DFS: https://ko.wikipedia.org/wiki/%EA%B9%8A%EC%9D%B4_%EC%9A%B0%EC%84%A0_%ED%83%
 BFS: https://ko.wikipedia.org/wiki/%EB%84%88%EB%B9%84_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89
 
 이 폴더안의 코드를 참조하셔서 공부하시면 됩니다!
+   
+- 1. BFS(너비우선탐색)
+- 2. DFS(깊이우선탐색)
