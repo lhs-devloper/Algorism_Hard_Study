@@ -28,3 +28,6 @@ def dijkstra(graph, start):
                 heapq.heappush(queue, [distance, new_destination])
 
     return distances
+
+
+print(dijkstra(graph, "A"))
