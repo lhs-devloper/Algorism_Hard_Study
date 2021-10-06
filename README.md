@@ -13,15 +13,26 @@ Algorism(알고리즘): 문제를 해결하기 위한 절차나 방법
 
 List
 - 1. 탐색
-- - 1. Bubble정렬
-- - 2. Insertion정렬
-- - 3. Selection정렬
-- - 4. Quick정렬
-- - 5. Merge정렬
-- - 6. Radix정렬
+- - 1. DFS(DFS.py)
+- - 2. BFS(BFS.py)
+- - 3. Astar(A(star).py)
+- - 4. Dijkstra(dijkstra.py)
+- - 5. Bellmanfod(Bellmanfod.py)
 - 2. 정렬
-- 3. 동적계획법
-- 4. 재귀
-- 5. 그리디   
-- 6. 브루트포스   
-test
+- - 1. Bubblesort(BubbleSort.py)
+- - 2. Insertionsort(InsertionSort.py)
+- - 3. Selectionsort(SelectionSort.py)
+- - 4. Mergesort(MergeSort.py)
+- - 5. Quicksort(QuickSort.py)
+- - 6. Radixsort(RadixSort.py)
+- 3. 재귀
+- - 1. Factorial(Factorial.py)
+- - 2. Euclidian(Euclidian)
+- 4. 동적계획법
+- - 1. Fibonachi(Fibo.py)
+- 5. 브루트포스
+- - 1. Bruteforce(Bruteforce.py)
+- 6. 그리디
+- - 1. Greedy(Greedy.py)
+- 7. 백트래킹
+- - 1. Backtracking(BackTracking.py)

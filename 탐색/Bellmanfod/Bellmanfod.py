@@ -1,6 +1,6 @@
 graph = {
     'A': {'B': -1, 'C': 4},
-    'B': {'C': 3, 'D': 2, 'E':2},
+    'B': {'C': 3, 'D': 2, 'E': 2},
     'C': {},
     'D': {'B': 1, 'C': 5},
     'E': {'D': -3}
@@ -19,7 +19,6 @@ def bellman_ford(graph, start):
                 if distance[neighbor] > distance[node] + graph[node][neighbor]:
                     distance[neighbor] = distance[node] + graph[node][neighbor]
                     predecessor[neighbor] = node
-        
         for node in graph:
             for neighbor in graph[node]:
                 if distance[neighbor] > distance[node] + graph[node][neighbor]:
