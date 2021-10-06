@@ -5,6 +5,7 @@
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
     "python.linting.flake8Args": [
-        "--max-line-length=88"
+        "--max-line-length=120",
+        "--ignore=E402,E225,E226,F841,F401,E302,E305,W291,W292",
     ]
 }
