@@ -1,5 +1,4 @@
-Algorism 모음집   
-하루 한 개 Update예정 Program Language: Python   
+Algorism 모음집    
 Algorism(알고리즘): 문제를 해결하기 위한 절차나 방법   
 어떤 Input을 넣으면 Output이 나와야 한다.   
    
