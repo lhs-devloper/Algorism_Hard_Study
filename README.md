@@ -1,37 +1,91 @@
-Algorism 모음집    
-Algorism(알고리즘): 문제를 해결하기 위한 절차나 방법   
-어떤 Input을 넣으면 Output이 나와야 한다.   
-   
-알고리즘의 조건   
-입력: 0 또는 그 이상의 외부에서 제공된 자료   
-출력: 최소 1개이상의 결과   
-명확성: 알고리즘의 각 단계는 명확하여 애매함이 없어야 한다.   
-유한성: 알고리즘의 단계들은 유한한 횟수로 거친 후 문제를 해결하고 종료해야 한다.   
-효율성: 알고리즘의 모든 연산들은 유한한 시간 안에 정확하게 수행할 수 있을 정도로 단순해야한다.   
-   
-
-List
-- 1. 탐색
-- - 1. DFS(DFS.py)
-- - 2. BFS(BFS.py)
-- - 3. Astar(A(star).py)
-- - 4. Dijkstra(dijkstra.py)
-- - 5. Bellmanfod(Bellmanfod.py)
-- 2. 정렬
-- - 1. Bubblesort(BubbleSort.py)
-- - 2. Insertionsort(InsertionSort.py)
-- - 3. Selectionsort(SelectionSort.py)
-- - 4. Mergesort(MergeSort.py)
-- - 5. Quicksort(QuickSort.py)
-- - 6. Radixsort(RadixSort.py)
-- 3. 재귀
-- - 1. Factorial(Factorial.py)
-- - 2. Euclidian(Euclidian)
-- 4. 동적계획법
-- - 1. Fibonachi(Fibo.py)
-- 5. 브루트포스
-- - 1. Bruteforce(Bruteforce.py)
-- 6. 그리디
-- - 1. Greedy(Greedy.py)
-- 7. 백트래킹
-- - 1. Backtracking(BackTracking.py)
+<table>
+    <tr>
+        <td>탐색</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>DFS(DFS.py)</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>BFS(BFS.py)</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>ASTAR(ASTAR.py)</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Dijkstra(Dijkstra.py)</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Bellmanfod(Bellmanfod.py)</td>
+    </tr>
+    <tr>
+        <td>정렬</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>버블정렬(BubbleSort.py)</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>삽입정렬(InsertionSort.py)</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>선택정렬(SelectionSort.py)</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>병합정렬(MergeSort.py)</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>퀵정렬(QuickSort.py)</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>기수정렬(RadixSort.py)</td>
+    </tr>
+    <tr>
+        <td>재귀</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>팩토리얼(Factorial.py)</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>유클리드기하학(Euclidian.py)</td>
+    </tr>
+    <tr>
+        <td>동적계획법</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Fibonachi(Fibo.py)</td>
+    </tr>
+    <tr>
+        <td>브루트포스</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>브루트포스(Bruthforce.py)</td>
+    </tr>
+    <tr>
+        <td>그리디</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>그리디(Greedy.py)</td>
+    </tr>
+    <tr>
+        <td>백트래킹</td>       
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>백트래킹(BackTracking.py)</td>
+    </tr>
+</table>
